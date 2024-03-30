@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+.header {
+    width: 100%;
+    color: white;
+    height: 100%;
+    margin-left: 500px;
+}
+.header h1 {
+    font-size: 45px;
+    color: blueviolet;
+    font-weight: 700;
+    height: 40%;
+}
+.header p {
+    font-size: 20px;
+    font-style: italic;
+    color: #db5dab;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.about {
+    color: white;
+    width: 100%;
+    height: 100%;
+}
+.about p {
+    text-align: center;
+    font size: 20px;
+    margin-top: 20px;   
+}
+.about h2 {
+    text-align: center;
+    font-size: 20px;
+}
+.list-items {
+    text-align: center;
+}
